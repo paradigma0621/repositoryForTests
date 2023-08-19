@@ -1,0 +1,10 @@
+Master
+-> Eu baixo master e modifico
+-> Simultaneamente ao tempo da linha de cima: Fulano baixa master e a modifica
+-> Eu subo pra master minha branch
+-> Fulano  sobe pra master a branch dele
+
+
+Nessa branch aconteceu:
+-> Eu subo pra master minha branch
+-> Eu subo pra master minha branch
