@@ -1,6 +1,3 @@
 Master
 -> Eu baixo master e modifico: conteúdos do arquivoA eu desmembro em arquivos B e C .... depois subo tudo pra master
 
--> Simultaneamente ao tempo da linha de cima: Fulano baixa master e a modifica. Ele roda um git pull de master, pois eu subi minha branch e ele vai baixá-la.  Acredito (confirmar) que ele recebe a msg que o arquivoA que eu tinha subido difere do dele - ele olha que eu tirei conteúdos do arquivoA mas prefere ficar com a versão do arquivoA dele que ainda tem os conteúdos. Ele recebe tb arquivos B e C meus que foram extraídos do arquivoA.
-Pergunta: ele fica com arquivoA da versão dele + B e C?
-

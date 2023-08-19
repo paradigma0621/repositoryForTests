@@ -1,0 +1,2 @@
+conteúdos do arquivoA mas prefere ficar com a versão do arquivoA dele que ainda tem os conteúdos. Ele recebe tb arquivos B e C meus que foram extraídos do arquivoA.
+Pergunta: ele fica com arquivoA da versão dele + B e C?
